@@ -1,0 +1,13 @@
+equipment_id,vessel,equipment_type
+AUR-01,FPSO Aurora,Gas compressor
+AUR-02,FPSO Aurora,Water injection pump
+AUR-03,FPSO Aurora,Crude export pump
+AUR-04,FPSO Aurora,Power generator
+BOR-01,FPSO Borealis,Gas compressor
+BOR-02,FPSO Borealis,Water injection pump
+BOR-03,FPSO Borealis,Crude export pump
+BOR-04,FPSO Borealis,Power generator
+COR-01,FPSO Corona,Gas compressor
+COR-02,FPSO Corona,Water injection pump
+COR-03,FPSO Corona,Crude export pump
+COR-04,FPSO Corona,Power generator

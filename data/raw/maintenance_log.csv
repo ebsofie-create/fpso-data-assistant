@@ -1,0 +1,80 @@
+date,equipment_id,work_type,note
+2026-08-01,AUR-01,Preventive,Calibration of pressure transmitter completed.
+2026-08-01,BOR-03,Preventive,"Routine inspection, no findings."
+2026-08-03,BOR-04,Preventive,"Routine inspection, no findings."
+2026-08-04,BOR-02,Preventive,"Routine inspection, no findings."
+2026-08-05,AUR-01,Preventive,"Routine inspection, no findings."
+2026-08-05,COR-04,Preventive,Calibration of pressure transmitter completed.
+2026-08-06,COR-01,Preventive,"Routine inspection, no findings."
+2026-08-07,COR-04,Preventive,Filter replaced as per schedule.
+2026-08-11,BOR-03,Preventive,Filter replaced as per schedule.
+2026-08-11,COR-04,Preventive,Calibration of pressure transmitter completed.
+2026-08-11,BOR-02,Preventive,"Routine inspection, no findings."
+2026-08-14,BOR-01,Preventive,Filter replaced as per schedule.
+2026-08-14,COR-02,Preventive,Filter replaced as per schedule.
+2026-08-14,AUR-02,Preventive,Filter replaced as per schedule.
+2026-08-15,BOR-04,Preventive,Filter replaced as per schedule.
+2026-08-16,COR-03,Preventive,"Routine inspection, no findings."
+2026-08-17,AUR-04,Preventive,Calibration of pressure transmitter completed.
+2026-08-17,COR-04,Observation,Operator reported unusual noise from drive end.
+2026-08-18,COR-04,Observation,Lube oil sample showed elevated metal particles.
+2026-08-19,COR-04,Observation,"Vibration alarm acknowledged, monitoring continued."
+2026-08-20,AUR-04,Preventive,Calibration of pressure transmitter completed.
+2026-08-22,COR-01,Preventive,"Routine inspection, no findings."
+2026-08-22,BOR-01,Preventive,Lubrication performed.
+2026-08-23,COR-04,Corrective,Equipment tripped. Repair completed after 48 h.
+2026-08-24,BOR-04,Preventive,Lubrication performed.
+2026-08-25,AUR-02,Preventive,Calibration of pressure transmitter completed.
+2026-08-25,COR-03,Preventive,Calibration of pressure transmitter completed.
+2026-08-25,AUR-02,Preventive,Calibration of pressure transmitter completed.
+2026-08-26,AUR-01,Observation,Cooling water inlet temperature higher than usual.
+2026-08-27,AUR-01,Observation,"Heat exchanger fouling suspected, cleaning postponed."
+2026-08-28,COR-03,Preventive,Lubrication performed.
+2026-08-28,AUR-01,Preventive,Filter replaced as per schedule.
+2026-08-28,AUR-01,Observation,"High temperature alarm, load reduced temporarily."
+2026-08-29,BOR-01,Preventive,Calibration of pressure transmitter completed.
+2026-08-29,BOR-01,Preventive,"Routine inspection, no findings."
+2026-08-30,COR-04,Preventive,Calibration of pressure transmitter completed.
+2026-08-30,BOR-01,Observation,"Minor leak observed at mechanical seal, drip tray placed."
+2026-08-31,BOR-01,Observation,Seal flush flow lower than normal.
+2026-08-31,AUR-01,Corrective,Equipment tripped. Repair completed after 6 h.
+2026-08-31,AUR-04,Preventive,Lubrication performed.
+2026-09-01,COR-03,Preventive,Lubrication performed.
+2026-09-01,BOR-01,Observation,"Discharge pressure fluctuating, cause not identified."
+2026-09-02,AUR-04,Preventive,Calibration of pressure transmitter completed.
+2026-09-02,AUR-04,Preventive,Calibration of pressure transmitter completed.
+2026-09-03,BOR-01,Corrective,Equipment tripped. Repair completed after 18 h.
+2026-09-03,COR-04,Preventive,Calibration of pressure transmitter completed.
+2026-09-06,AUR-03,Preventive,Lubrication performed.
+2026-09-08,COR-02,Preventive,Filter replaced as per schedule.
+2026-09-08,BOR-01,Preventive,Calibration of pressure transmitter completed.
+2026-09-09,BOR-02,Preventive,Filter replaced as per schedule.
+2026-09-09,AUR-01,Preventive,"Routine inspection, no findings."
+2026-09-11,AUR-03,Preventive,Calibration of pressure transmitter completed.
+2026-09-11,BOR-03,Observation,"Minor leak observed at mechanical seal, drip tray placed."
+2026-09-12,COR-03,Observation,Cooling water inlet temperature higher than usual.
+2026-09-12,BOR-03,Observation,Seal flush flow lower than normal.
+2026-09-12,AUR-01,Preventive,Lubrication performed.
+2026-09-13,COR-03,Observation,"Heat exchanger fouling suspected, cleaning postponed."
+2026-09-13,BOR-03,Observation,"Discharge pressure fluctuating, cause not identified."
+2026-09-14,AUR-04,Preventive,Filter replaced as per schedule.
+2026-09-14,AUR-01,Preventive,Calibration of pressure transmitter completed.
+2026-09-14,COR-03,Observation,"High temperature alarm, load reduced temporarily."
+2026-09-14,BOR-03,Preventive,Filter replaced as per schedule.
+2026-09-16,BOR-03,Corrective,Equipment tripped. Repair completed after 30 h.
+2026-09-16,COR-01,Preventive,Calibration of pressure transmitter completed.
+2026-09-17,COR-03,Corrective,Equipment tripped. Repair completed after 18 h.
+2026-09-17,COR-02,Preventive,Lubrication performed.
+2026-09-17,COR-03,Preventive,Lubrication performed.
+2026-09-18,COR-01,Preventive,Calibration of pressure transmitter completed.
+2026-09-19,BOR-04,Preventive,Lubrication performed.
+2026-09-19,AUR-03,Preventive,"Routine inspection, no findings."
+2026-09-19,AUR-02,Preventive,Lubrication performed.
+2026-09-20,BOR-02,Observation,Operator reported unusual noise from drive end.
+2026-09-21,BOR-02,Observation,Lube oil sample showed elevated metal particles.
+2026-09-22,BOR-03,Preventive,"Routine inspection, no findings."
+2026-09-22,BOR-02,Observation,"Vibration alarm acknowledged, monitoring continued."
+2026-09-23,BOR-04,Preventive,Filter replaced as per schedule.
+2026-09-25,BOR-02,Corrective,Equipment tripped. Repair completed after 30 h.
+2026-09-28,COR-04,Preventive,Filter replaced as per schedule.
+2026-09-29,AUR-03,Preventive,Lubrication performed.

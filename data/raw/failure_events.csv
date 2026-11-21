@@ -1,0 +1,7 @@
+failure_id,equipment_id,failure_start,downtime_hours,failure_mode
+F001,BOR-02,2026-09-24 00:00:00,30.0,Bearing wear
+F002,BOR-03,2026-09-15 10:00:00,30.0,Seal leakage
+F003,COR-03,2026-09-16 10:00:00,18.0,Cooling degradation
+F004,COR-04,2026-08-21 02:00:00,48.0,Bearing wear
+F005,BOR-01,2026-09-03 00:00:00,18.0,Seal leakage
+F006,AUR-01,2026-08-30 19:00:00,6.0,Cooling degradation

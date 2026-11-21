@@ -1,0 +1,5 @@
+.env
+.venv/
+__pycache__/
+data/fpso.db
+data/clean_sensor_readings.csv
